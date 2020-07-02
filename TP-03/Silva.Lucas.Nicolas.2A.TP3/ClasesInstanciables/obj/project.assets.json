@@ -238,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\ClasesInstanciables.csproj",
+      "projectUniqueName": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\ClasesInstanciables.csproj",
       "projectName": "ClasesInstanciables",
-      "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\ClasesInstanciables.csproj",
+      "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\ClasesInstanciables.csproj",
       "packagesPath": "C:\\Users\\Los Fierros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\obj\\",
+      "outputPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesInstanciables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -261,11 +261,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Archivos\\Archivos.csproj": {
-              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Archivos\\Archivos.csproj"
+            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Archivos\\Archivos.csproj": {
+              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Archivos\\Archivos.csproj"
             },
-            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj": {
-              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj"
+            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj": {
+              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\bin\Debug\Entidades.dll
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\obj\Debug\Entidades.dll
+C:\Users\Los Fierros\source\repos\Silva.Lucas.TP4.1A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Los Fierros\Desktop\UTN\TP_Laboratorio_II\TP-04\Entidades\obj\Debug\Entidades.pdb

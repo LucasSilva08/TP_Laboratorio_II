@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj",
+      "projectUniqueName": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj",
       "projectName": "EntidadesAbstractas",
-      "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj",
+      "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\EntidadesAbstractas.csproj",
       "packagesPath": "C:\\Users\\Los Fierros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\obj\\",
+      "outputPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\ClasesAbstractas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_2\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Excepciones\\Excepciones.csproj"
+            "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Users\\Los Fierros\\Desktop\\TP_Laboratorio_II\\TP-03\\Silva.Lucas.Nicolas.2A.TP3\\Excepciones\\Excepciones.csproj"
             }
           }
         }
